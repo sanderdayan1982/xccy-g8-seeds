@@ -4,14 +4,14 @@
     "question": "Who is already inside the trade? Speculative COT positioning (LF/MM) vs structural (AM), per G8 currency and metals.",
     "pine_version": "v1_1_3_EN",
     "py_version": "0.1.0",
-    "generated_at": "2026-09-07T04:26:46+00:00",
-    "run_id": "34083030954",
-    "commit": "23c443355ca2",
+    "generated_at": "2026-09-07T14:13:18+00:00",
+    "run_id": "34131663584",
+    "commit": "d7859608a35f",
     "schema_version": "1.0",
     "twin_test": {
       "status": "FAILED",
       "started": "2026-08-25",
-      "weeks_elapsed": 1.7,
+      "weeks_elapsed": 1.9,
       "state_discrepancy_pct": 20.0,
       "acta": null,
       "per_key": {
